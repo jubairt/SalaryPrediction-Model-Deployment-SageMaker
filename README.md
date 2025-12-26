@@ -117,8 +117,9 @@ s3://salary-sagemaker-jubi-001/model.tar.gz
 
 
 - **Environment Variables**
+
 | Key | Value |
-|----|------|
+|-----|-------|
 | `SAGEMAKER_PROGRAM` | `inference.py` |
 | `SAGEMAKER_REGION` | `us-east-1` |
 | `SAGEMAKER_SUBMIT_DIRECTORY` | `s3://salary-sagemaker-jubi-001/code/code.tar.gz` |
