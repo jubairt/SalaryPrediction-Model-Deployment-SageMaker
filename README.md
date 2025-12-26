@@ -93,16 +93,6 @@ These archives are uploaded to Amazon S3.
 ## ☁️ Amazon S3 Storage
 
 ### Model Artifact Location
-Contains:
-- `inference.py`
-
-These archives are uploaded to Amazon S3.
-
----
-
-## ☁️ Amazon S3 Storage
-
-### Model Artifact Location
 s3://salary-sagemaker-jubi-001/model.tar.gz
 
 
